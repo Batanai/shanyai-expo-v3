@@ -13,5 +13,5 @@
     "**/*.tsx",
     ".expo/types/**/*.ts",
     "expo-env.d.ts"
-  ]
+, "app/(auth)/index.js", "store/index.js", "store/tickets.js", "app/(auth)/index.jsx"  ]
 }
